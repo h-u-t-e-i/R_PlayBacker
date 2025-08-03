@@ -7,7 +7,7 @@
 
 1. `input.ust` を`R_Mirror_UST.exe` と同じ場所に置きます
 2. `R_Mirror_UST.exe` を実行します
-3. 鏡写し処理がされ、`output.ust` が出力されます
+3. 鏡写しになった`output.ust` が出力されます
 
 > - USTはすっぴんになってしまいます
 
