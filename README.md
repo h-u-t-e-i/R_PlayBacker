@@ -5,8 +5,8 @@
 
 ### 1. UST反転
 
-1. `input.ust` を`R_Mirror_UST.exe` と同じ場所に置きます
-2. `R_Mirror_UST.exe` を実行します
+1. `input.ust` を実行ファイルと同じ場所に置きます
+2. 実行ファイルを実行します
 3. 鏡写しになった`output.ust` が出力されます
 
 > - USTはすっぴんになってしまいます
@@ -16,9 +16,9 @@
 ### 2. WAV反転
 
 1. `output.ust` から`temp.wav` を出力します
-2. `temp.wav` を`R_Mirror_UST.exe` と同じ場所に置く  
-3. `R_Mirror_UST.exe` を実行
-4. `reversed_temp.wav` が出力されます
+2. `temp.wav` を実行ファイルと同じ場所に置く  
+3. 実行ファイルを実行
+4. `reversed.wav` が出力されます
 
 ---
 
